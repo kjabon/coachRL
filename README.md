@@ -1,9 +1,11 @@
 # coachRL
 
 
-#For best results, follow these setup steps in order
+# Installation/setup
 
-###CUDA installation###
+For best results, follow these setup steps in order
+
+CUDA installation
 #Update nvidia cuda keyring by visiting the following website, and selecting your distribution
 #https://developer.nvidia.com/cuda-downloads
 
@@ -12,7 +14,7 @@
 #sudo dpkg -i cuda-keyring_1.0-1_all.deb
 
 #Then you can update cuda for your hardware:
-#sudo apt clean
+  sudo apt clean
 #sudo apt update
 #sudo apt purge cuda
 #sudo apt purge nvidia-*
