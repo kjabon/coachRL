@@ -14,13 +14,15 @@ CUDA installation
 #sudo dpkg -i cuda-keyring_1.0-1_all.deb
 
 #Then you can update cuda for your hardware:
-  sudo apt clean
-#sudo apt update
-#sudo apt purge cuda
-#sudo apt purge nvidia-*
-#sudo apt autoremove
-#sudo apt install cuda
-#sudo reboot #Yes, actually necessary
+```sh
+sudo apt clean
+sudo apt update
+sudo apt purge cuda
+sudo apt purge nvidia-*
+sudo apt autoremove
+sudo apt install cuda
+sudo reboot #Yes, actually necessary
+```
 
 ###CUDNN installation###
 # Follow this guide. it's a bit time consuming, but it's all there.
