@@ -1,6 +1,6 @@
 
 # Perhaps obvious to some: it is recommended you do the following within a virtual environment
-# pip install --upgrade pip
+pip install --upgrade pip
 
 #JAX with CUDA support installation:
 #Follow this guide: https://github.com/google/jax/#installation
