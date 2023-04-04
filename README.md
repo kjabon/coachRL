@@ -31,7 +31,7 @@ sudo reboot #Yes, actually necessary
 
 ### CUDNN installation
 Follow this guide. it's a bit time consuming, but it's all there.
-You need to download it manually, dpkg, then apt install 3 things (cudnn, -dev, -samples)
+You need to download it manually, ```dpkg```, then ```apt install``` 3 things (cudnn, -dev, -samples)
 https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html#verify
 
 
