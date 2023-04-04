@@ -1,11 +1,11 @@
 # coachRL
 
 
-# Installation/setup
+## Installation/setup
 
 For best results, follow these setup steps in order
 
-CUDA installation
+### CUDA installation
 #Update nvidia cuda keyring by visiting the following website, and selecting your distribution
 #https://developer.nvidia.com/cuda-downloads
 
