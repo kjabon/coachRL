@@ -7,8 +7,8 @@ For best results, follow these setup steps in order. This repo will only work on
 First, clone this repo to a local repository, then continue.
 
 ### CUDA installation
-Download cuda for your distribution by making the appropriate selections at the link below. 
-This may also yield commands you must run to update your keyring; for example my commands are:
+Download cuda for your distribution by making the appropriate selections at the link below, and follow the instructions it gives you.
+This may also yield commands you must run to update your keyring; for example my commands for the keyring are:
 ```sh
 wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-keyring_1.0-1_all.deb
 sudo dpkg -i cuda-keyring_1.0-1_all.deb
