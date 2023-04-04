@@ -3,7 +3,7 @@
 
 ## Installation/setup
 
-For best results, follow these setup steps in order. This repo will only work on unix systems due to using Acme. This guide assumes Ubuntu. 
+For best results, follow these setup steps in order. This repo will only work on unix systems due to using Acme. This guide assumes Ubuntu and an Nvidia GPU, for which you have already installed the Nvidia drivers. 
 First, clone this repo to a local repository, then continue.
 
 ### CUDA installation
