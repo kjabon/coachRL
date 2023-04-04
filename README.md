@@ -1,5 +1,8 @@
 # coachRL
+This project enables you to organize all your habit goals into one place.
+Trained in simulation with reinforcement learning, and then continuously tuning on your real life data, this Coach will give you daily suggestions for each habit, based on your recent performance! Rest assured, you're living optimally.
 
+See the associated [blog](https://kjabon.github.io/blog/2023/CoachRLHighLevel/) [posts](https://kjabon.github.io/blog/tag/habits/) for the how and why of usage.
 
 ## Installation/setup
 
