@@ -45,5 +45,7 @@ The pip version is not up to date, you must clone the github repo!
 Follow step 4 from installation section of: https://github.com/deepmind/acme
 
 ### Other libraries
-Finally, run setup.sh to install the rest of the necessary libraries.
+Run setup.sh to install the rest of the necessary libraries.
 
+###
+Finally, get the reward generator code [here](https://github.com/kjabon/rewardGenerator). Set yourself up with a Telegram bot with the [BotFather](https://t.me/botfather), in so doing acquiring an API key, if you haven't already.
